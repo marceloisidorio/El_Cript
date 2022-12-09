@@ -156,9 +156,8 @@ namespace El_Cript
 			this.label_error.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
 			this.label_error.Location = new System.Drawing.Point(299, 375);
 			this.label_error.Name = "label_error";
-			this.label_error.Size = new System.Drawing.Size(14, 15);
+			this.label_error.Size = new System.Drawing.Size(0, 15);
 			this.label_error.TabIndex = 10;
-			this.label_error.Text = "*";
 			// 
 			// Form1
 			// 
