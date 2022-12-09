@@ -15,7 +15,7 @@ namespace El_Cript {
 		}
 
 		private void textBox1_TextChanged(object sender, EventArgs e) {
-
+			label_error.Text = "";
 		}
 
 		private void pictureBox1_Click(object sender, EventArgs e) {
