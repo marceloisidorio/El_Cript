@@ -3,7 +3,8 @@
 </h2>
 
 ## 🔖 Informações
-<p>Software para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro</p>
+<p>Software com interface gráfica para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro realizando conversão
+para caracteres unicode</p>
 
 ## 🖼 Screenshot da tela inicial
 <p align="center">
