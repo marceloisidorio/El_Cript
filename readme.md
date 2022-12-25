@@ -1,7 +1,15 @@
 ## 🔖 Informações
-<p>Software para encriptação e descriptação de mensagens a partir de uma chave primária</p>
+<p>Software para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro</p>
 
 ## 🖼 Screenshot da tela inicial
+
+### :memo: Sobre
+- Possui 2 caixas de texto para cada tipo
+- Opção para limpar todas as caixas de texto
+- Verifica se o usuário digitou uma chave
+- Realiza a criptografia através de caracteres unicode
+- Layout e design próprio
+- Está em fase de aprimoração
 
 ## :rocket:	Tecnologias utilizadas
 <img alt="C#" height="100" width="100" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
