@@ -6,7 +6,7 @@
 <p>Software para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro</p>
 
 ## 🖼 Screenshot da tela inicial
-<img src="El_Cript/tela.png" alt="Tela Principal"></img>
+<img src="El_Cript/tela.PNG" alt="Tela Principal"></img>
 
 ### :memo: Sobre
 - Possui 2 caixas de texto para cada tipo
