@@ -6,7 +6,13 @@
 <p>Software para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro</p>
 
 ## 🖼 Screenshot da tela inicial
-<img src="tela.PNG" alt="Tela Principal" width="900"></img>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="tela.PNG" alt="Tela Principal"></img>
+        </td>
+    </tr>
+</table>
 
 ### :memo: Sobre
 - Possui 2 caixas de texto para cada tipo
