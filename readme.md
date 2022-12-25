@@ -8,7 +8,7 @@
 ## 🖼 Screenshot da tela inicial
 <table align="center">
     <tr>
-        <td align="center">
+        <td align="center" style="margin: 0;">
             <img src="tela.PNG" alt="Tela Principal"></img>
         </td>
     </tr>
