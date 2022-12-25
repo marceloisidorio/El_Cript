@@ -1,7 +1,12 @@
+<h2 align="center">
+    :heavy_check_mark:El_Cript Security - Beta
+</h2>
+
 ## 🔖 Informações
 <p>Software para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro</p>
 
 ## 🖼 Screenshot da tela inicial
+<img src="tela.png" alt="Tela Principal"></img>
 
 ### :memo: Sobre
 - Possui 2 caixas de texto para cada tipo
