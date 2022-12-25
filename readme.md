@@ -6,7 +6,7 @@
 <p>Software para encriptação e descriptação de mensagens a partir de uma chave primária do tipo inteiro</p>
 
 ## 🖼 Screenshot da tela inicial
-<div style="margin: auto;">
+<div style="text-align: center;">
     <img src="tela.PNG" alt="Tela Principal"></img>
 </div>
 
